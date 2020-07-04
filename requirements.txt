@@ -1,0 +1,16 @@
+# Use the following to run in windows:
+# for /f %i in (requirements.txt) do conda install --yes %i
+jupyter>=1.0
+jupyter_client>=5.0
+jupyter_console>=5.1
+jupyter_core>=4.3
+pandas
+numpy
+missingno
+requests
+tabulate
+colorama>=0.3.8
+future
+sklearn
+seaborn
+matplotlib

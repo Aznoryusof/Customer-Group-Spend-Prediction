@@ -1,0 +1,5 @@
+__pycache__
+data/0_raw/spendata.csv
+data/0_raw/testdata.csv
+reports/
+README.pdf
