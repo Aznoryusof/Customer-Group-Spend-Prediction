@@ -26,7 +26,7 @@ The input dataset has been ignored in this repo for confidentiality reasons.
 With the input dataset available, run the following file:
 
 ```
-python src\train.py
+python src/train.py
 ```
 
 This would run the machine learning pipeline, that processes the input data and generates predictions for both **total spend** and **customer groups**. The results of the model is as follows:
