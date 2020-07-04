@@ -31,7 +31,7 @@ python src\train.py
 
 This would run the machine learning pipeline, that processes the input data and generate predictions for both **total spend** and **customer groups**. The results of the model is as follows:
 
-![Result](images/results.png)
+![Result](./images/results.png)
 
 
 ## Project Objective
