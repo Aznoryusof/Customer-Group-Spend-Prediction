@@ -29,21 +29,6 @@ With the input dataset available, run the following file:
 python src\train.py
 ```
 
-This would run the machine learning pipeline, that processes the input data and generate predictions for both **total spend** and **customer groups**. The results of the model is as follows:
+This would run the machine learning pipeline, that processes the input data and generates predictions for both **total spend** and **customer groups**. The results of the model is as follows:
 
-![Result](./images/results.png)
-
-
-## Project Objective
-Use Machine Learning and Natural Language Processing techniques to learn about the semantics and meanings of texts to distinguish hotel reviews that are negative or positive. This allows users to analyse sentiments of their customers at scale, and in real-time without much effort.
-
-## Data Source
-[515K Hotel Reviews Data in Europe](https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe/kernels)
-
-## Resources 
-The following resources were referenced to implement this project:
-- https://www.youtube.com/watch?v=_eSGWNqKeeY&t=1453s
-
-# Further Development Work
-- Building an app with Django
-- Integrating app with portfolio website 
+![Result](./images/Capture.PNG)
