@@ -1,5 +1,5 @@
 # Machine Learning Pipeline
-A Machine Learning Pipeline for Predicting **total spend** and **customer groups** of tourists from a set of survey data using [H20 AI's GBM](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/gbm.html). This is part of a Data Science assignment for a job interview. 
+A Machine Learning Pipeline for Predicting **total spend** and **customer groups** of customers from a set of survey data using [H20 AI's GBM](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/gbm.html). This is part of a Data Science assignment for a job interview. 
 
 ## Installation
 Firstly, clone the repository to a folder of your choice. 
