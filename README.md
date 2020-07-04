@@ -31,4 +31,6 @@ python src/train.py
 
 This would run the machine learning pipeline, that processes the input data and generates predictions for both **total spend** and **customer groups**. The results of the model is as follows:
 
-![Result](./images/Capture.PNG)
+![]<img src="./images/Capture.PNG" width="650">
+
+For exploration of other models run in the exploration phase, please refer to notebooks/Assignment 1 and 2.html
